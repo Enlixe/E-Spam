@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --console --icon "D:/Code/Python/E-Spam/assets/icon.ico" --add-data "D:/Code/Python/E-Spam/assets;assets/"  "D:/Code/Python/E-Spam/E-Spam.py"
